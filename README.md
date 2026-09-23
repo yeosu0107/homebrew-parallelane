@@ -45,3 +45,4 @@ brew uninstall --cask --zap parallelane
 - Homepage: https://parallelane.com/
 - Documentation: https://docs.parallelane.com/
 - Release notes: https://docs.parallelane.com/releases
+- Bugs and feedback: https://github.com/yeosu0107/parallelane-tracker
