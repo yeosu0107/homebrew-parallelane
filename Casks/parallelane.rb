@@ -1,6 +1,6 @@
 cask "parallelane" do
-  version "1.5.2"
-  sha256 "b472f8f16854b3d9e3a1abd407804ab2e61fc37fa10dd76cde179371ceadcfe9"
+  version "1.5.3"
+  sha256 "673d6c5bb3605ac46877d39e5bf18efcf40dcb0715c29d9d3f134d0013c20060"
 
   url "https://releases.parallelane.com/#{version}/ParalleLane-#{version}.dmg"
   name "ParalleLane"
